@@ -1,8 +1,5 @@
 # Kanban Drag Drop
 
-
-
-
 ## Technologies used
 - React
 - React Beautiful dnd
@@ -12,3 +9,6 @@
 
 ## Recources
 [React beautiful dnd](https://github.com/atlassian/react-beautiful-dnd)
+
+## Developed by
+Farnaz Towhidi
